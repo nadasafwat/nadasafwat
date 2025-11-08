@@ -2,24 +2,20 @@
 
 ## 👀 About Me
 
-I’m a **Software Developer** passionate about creating efficient and scalable solutions. I specialize in **web, mobile, and desktop applications** and have experience in **.NET API development**. Additionally, I work as a **software instructor** at TechStars and Coding Game Academy, helping students build strong programming foundations.
+I’m a **Software System Analyst** passionate about creating efficient and scalable solutions. Additionally, I work as a **software instructor** at TechStars  Coding Game Academy and Black Horse Academy helping students build strong programming foundations.
 
 ## 🌱 Currently Learning
 
-I am expanding my expertise in:
-
-- **.NET API Development** (C#, .NET Core, ASP.NET Core Web API, SQL, Entity Framework, JWT Authentication, etc.)
+- Gathering and documenting requirements (SRS)
+- Designing system workflows and diagrams (UML, Flowcharts)
+- Writing user stories aligned with the INVEST model
+- Working in Agile/Scrum environments
 
 ## 💼 Work & Projects
 
 - **Software Instructor**: Teaching programming and problem-solving skills.
 - **Various Software Projects**: Web and mobile applications with modern technologies.
 
-## 💡 Looking to Collaborate On
-
-- **Software Development Projects**
-- **.NET API Development**
-- **Educational Content & Training**
 
 ## 📫 How to Reach Me
 
