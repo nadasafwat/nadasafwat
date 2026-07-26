@@ -44,7 +44,7 @@ I'm continuously expanding my knowledge in software engineering, product managem
 # 💼 Experience
 
 ### 🏢 Product Owner
-**Elsewedy**
+**Elsewedy Electrometer**
 
 - Requirements Gathering
 - Writing SRS & BRD
